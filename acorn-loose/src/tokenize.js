@@ -1,4 +1,4 @@
-import {tokTypes as tt, Token, isNewLine, SourceLocation, getLineInfo, lineBreakG} from "acorn"
+import {tokTypes as tt, Token, isNewLine, SourceLocation, getLineInfo, lineBreakG} from "https://code4fukui.github.io/acorn-es/acorn/src/index.js"
 import {LooseParser} from "./state.js"
 import {dummyValue} from "./parseutil.js"
 

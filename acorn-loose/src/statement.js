@@ -1,6 +1,6 @@
 import {LooseParser} from "./state.js"
 import {isDummy} from "./parseutil.js"
-import {getLineInfo, tokTypes as tt} from "acorn"
+import {getLineInfo, tokTypes as tt} from "https://code4fukui.github.io/acorn-es/acorn/src/index.js"
 
 const lp = LooseParser.prototype
 

@@ -29,7 +29,7 @@
 // invasive changes and simplifications without creating a complicated
 // tangle.
 
-import {defaultOptions} from "acorn"
+import {defaultOptions} from "https://code4fukui.github.io/acorn-es/acorn/src/index.js"
 import {LooseParser} from "./state.js"
 import "./tokenize.js"
 import "./statement.js"
