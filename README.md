@@ -19,6 +19,14 @@ requests on [github](https://github.com/acornjs/acorn). For questions
 and discussion, please use the
 [Tern discussion forum](https://discuss.ternjs.net).
 
+## Usage
+
+```JavaScript
+import { parseModule } from "https://code4fukui.github.io/acorn-es/parseModule.js";
+
+console.log(parseModule("await func();"));
+```
+
 ## Packages
 
 This repository holds three packages:
