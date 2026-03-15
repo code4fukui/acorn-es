@@ -1,5 +1,7 @@
 # acorn-es
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 [![Build Status](https://github.com/acornjs/acorn/workflows/ci/badge.svg)](https://github.com/acornjs/acorn/actions)
 [![NPM version](https://img.shields.io/npm/v/acorn.svg)](https://www.npmjs.com/package/acorn)
 [![CDNJS](https://img.shields.io/cdnjs/v/acorn.svg)](https://cdnjs.com/libraries/acorn)  
