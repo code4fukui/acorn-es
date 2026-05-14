@@ -9,3 +9,6 @@
 /yarn.lock
 !/acorn/dist/acorn.d.ts
 !/acorn/dist/acorn.mjs.d.ts
+# meta-ops cleanup
+Thumbs.db
+node_modules/
